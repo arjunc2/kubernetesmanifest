@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: arjunc2/gitopseks:5
+      - image: arjunc2/gitopseks:2
         name: flaskdemo
         resources: {}
 status: {}
